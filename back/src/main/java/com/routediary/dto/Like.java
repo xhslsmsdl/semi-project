@@ -11,7 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Like {
-  @NonNull
+//  @NonNull
   private int diaryNo;
   private String clientId;
 }
